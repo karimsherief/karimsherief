@@ -4,7 +4,7 @@ export const PROJECTS = [
         description: "Route Assignment ",
         homepage: "https://karimsherief.github.io/yummy",
         html_url: "https://github.com/karimsherief/yummy",
-        img: "images/yummy.png",
+        img: "images/yummy.webp",
         topics: ["bootstrap", "api", "css", "html", "javascript", "regex"],
     },
     {
@@ -12,7 +12,7 @@ export const PROJECTS = [
         description: "Route Assignment bookmark your favorite sites",
         homepage: "https://karimsherief.github.io/bookmarker",
         html_url: "https://github.com/karimsherief/bookmarker",
-        img: "images/bookmarker.png",
+        img: "images/bookmarker.webp",
         topics: ["bootstrap", "crud", "css", "html", "javascript", "regex"],
     },
     {
@@ -20,7 +20,7 @@ export const PROJECTS = [
         description: "Route assignment using react, react router",
         homepage: "https://karimsherief.github.io/framework",
         html_url: "https://github.com/karimsherief/framework",
-        img: "images/framework.png",
+        img: "images/framework.webp",
         topics: [
             "css",
             "html",
@@ -34,7 +34,7 @@ export const PROJECTS = [
         description: 'Route Assignment',
         homepage: 'https://karimsherief.github.io/games-review',
         html_url: 'https://github.com/karimsherief/games-review',
-        img: "images/game-review.png",
+        img: "images/game-review.webp",
         topics: [
             "html",
             "css",
@@ -48,7 +48,7 @@ export const PROJECTS = [
         description: 'web template',
         homepage: 'https://karimsherief.github.io/Leion-Template',
         html_url: 'https://github.com/karimsherief/Leion-Template',
-        img: "images/leion.png",
+        img: "images/leion.webp",
         topics: [
             "html",
             "css"
@@ -59,7 +59,7 @@ export const PROJECTS = [
         description: 'route assignment template with dark mode',
         homepage: 'https://karimsherief.github.io/mealify',
         html_url: 'https://github.com/karimsherief/mealify',
-        img: "images/mealify.png",
+        img: "images/mealify.webp",
         topics: [
             "html",
             "css"
@@ -70,7 +70,7 @@ export const PROJECTS = [
         description: 'note taking supported markdown',
         homepage: 'https://karimsherief.github.io/note-taking',
         html_url: 'https://github.com/karimsherief/note-taking',
-        img: "images/note-taking.png",
+        img: "images/note-taking.webp",
         topics: [
             "typescript",
             "react",
@@ -83,7 +83,7 @@ export const PROJECTS = [
         description: 'portfolio template',
         homepage: 'https://karimsherief.github.io/portfolio-template',
         html_url: 'https://github.com/karimsherief/portfolio-template',
-        img: "images/portfolio-template.png",
+        img: "images/portfolio-template.webp",
         topics: [
             "html",
             "css",
@@ -95,7 +95,7 @@ export const PROJECTS = [
         description: 'Get inspired with the Random Quote Generator',
         homepage: 'https://karimsherief.github.io/Random-Quote-Generator',
         html_url: 'https://github.com/karimsherief/Random-Quote-Generator',
-        img: "images/random-quote-generator.png",
+        img: "images/random-quote-generator.webp",
         topics: [
             "html",
             "css",
@@ -107,7 +107,7 @@ export const PROJECTS = [
         description: 'Test your memory and have fun with this engaging  memory game',
         homepage: 'https://karimsherief.github.io/react-memory-game',
         html_url: 'https://github.com/karimsherief/react-memory-game',
-        img: "images/react-memory-game.png",
+        img: "images/react-memory-game.webp",
         topics: [
             "vite",
             "react",
@@ -118,7 +118,7 @@ export const PROJECTS = [
         description: 'route assignment',
         homepage: 'https://karimsherief.github.io/registration-form',
         html_url: 'https://github.com/karimsherief/registration-form',
-        img: "images/registration-form.png",
+        img: "images/registration-form.webp",
         topics: [
             "html",
             "css",
@@ -130,7 +130,7 @@ export const PROJECTS = [
         description: 'shopping cart with CRUD operations',
         homepage: 'https://karimsherief.github.io/shopping-cart',
         html_url: 'https://github.com/karimsherief/shopping-cart',
-        img: "images/shopping-cart.png",
+        img: "images/shopping-cart.webp",
         topics: [
             "vite",
             "react",
@@ -142,7 +142,7 @@ export const PROJECTS = [
         description: 'route assignment',
         homepage: 'https://karimsherief.github.io/weather-app',
         html_url: 'https://github.com/karimsherief/weather-app',
-        img: "images/weather-app.png",
+        img: "images/weather-app.webp",
         topics: [
             "html",
             "css",
