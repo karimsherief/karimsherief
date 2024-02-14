@@ -15,7 +15,7 @@ const router = createBrowserRouter(
     </Route>
   ),
   {
-    basename: "/karim/",
+    basename: "/karimsherief/",
   }
 );
 export default function App() {
