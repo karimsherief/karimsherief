@@ -560,3 +560,20 @@ footer {
   padding: 20px;
   color: var(--text-color);
 }
+
+/* Not Found */
+.not-found {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  font-size: clamp(.8rem, 5vw, 1.5rem);
+  color: var(--text-color);
+  text-align: center;
+}
+
+.not-found a {
+  text-decoration: underline;
+  color: var(--secondary-color)
+}
