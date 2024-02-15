@@ -15,7 +15,7 @@ const router = createBrowserRouter(
     </Route>
   ),
   {
-    basename: "/karimsherief/",
+    basename: import.meta.env.DEV ? "/" : "/karimsherief/",
   }
 );
 export default function App() {
