@@ -5,7 +5,16 @@ export default function Hero() {
         <p>Hello, Welcome to my site</p>
         <h1>I'm Karim Sherief</h1>
         <h2>A Front-end Developer</h2>
-        <button>Tell me more</button>
+        <button
+          onClick={() =>
+            scroll({
+              top: 750,
+              behavior: "smooth",
+            })
+          }
+        >
+          Tell me more
+        </button>
       </div>
       <div className="wave hero__wave">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
