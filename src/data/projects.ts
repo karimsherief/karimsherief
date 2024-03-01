@@ -13,7 +13,7 @@ export const PROJECTS = [
         homepage: "https://karimsherief.github.io/yummy",
         html_url: "https://github.com/karimsherief/yummy",
         img: "images/yummy.webp",
-        topics: ["bootstrap", "api","css", "html", "javascript", "regex"],
+        topics: ["bootstrap", "api", "css", "html", "javascript", "regex"],
     },
     {
         name: 'games review',
