@@ -1,11 +1,33 @@
 export const PROJECTS = [
     {
+        name: "fresh cart",
+        description: "Ecommerce",
+        homepage: "https://karimsherief.github.io/freshcart",
+        html_url: "https://github.com/karimsherief/freshcart",
+        img: "images/fresh-cart.webp",
+        topics: ["react", "redux", "react-query", "react-bootstrap", "axios", "jwt"],
+    },
+    {
         name: "yummy",
         description: "Route Assignment ",
         homepage: "https://karimsherief.github.io/yummy",
         html_url: "https://github.com/karimsherief/yummy",
         img: "images/yummy.webp",
         topics: ["bootstrap", "api", "css", "html", "javascript", "regex"],
+    },
+    {
+        name: 'games review',
+        description: 'Route Assignment',
+        homepage: 'https://karimsherief.github.io/games-review',
+        html_url: 'https://github.com/karimsherief/games-review',
+        img: "images/game-review.webp",
+        topics: [
+            "html",
+            "css",
+            "bootstrap",
+            "javascript",
+            "api"
+        ]
     },
     {
         name: "bookmarker",
@@ -29,20 +51,7 @@ export const PROJECTS = [
             "react router",
         ],
     },
-    {
-        name: 'games review',
-        description: 'Route Assignment',
-        homepage: 'https://karimsherief.github.io/games-review',
-        html_url: 'https://github.com/karimsherief/games-review',
-        img: "images/game-review.webp",
-        topics: [
-            "html",
-            "css",
-            "bootstrap",
-            "javascript",
-            "api"
-        ]
-    },
+
     {
         name: 'Leion Template',
         description: 'web template',
